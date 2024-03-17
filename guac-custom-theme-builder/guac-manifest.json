@@ -3,8 +3,8 @@
         "guacamoleVersion" : "*",
         "name" : "Custom Guacamole Theme",
         "namespace" : "custom-namespace",
-        "smallIcon" : "images/logo-64.png",
-        "largeIcon" : "images/logo-144.png",
+        "smallIcon" : "images/remote_desktop-64.png",
+        "largeIcon" : "images/remote_desktop-144.png",
         "translations" : [ 
         "translations/en.json"
      ],
@@ -14,9 +14,9 @@
          ],
 
      "resources" : {
-                "images/logo.png" : "image/png",
-                "images/logo-64.png" : "image/png",
-                "images/logo-144.png" : "image/png"
+                "images/remote_desktop-400.png" : "image/png",
+                "images/remote_desktop-64.png" : "image/png",
+                "images/remote_desktop-144.png" : "image/png"
          }
 }
 

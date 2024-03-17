@@ -52,10 +52,10 @@ div.login-ui {
 }
 
 .login-ui .login-dialog .logo {
-    background-image: url('app/ext/custom-namespace/images/logo.png');
-    width: 7em;
-    height:	7em;
-    -webkit-background-size: 7em auto;
+    background-image: url('app/ext/custom-namespace/images/remote_desktop-400.png');
+    width: 6.7em;
+    height:	6.5em;
+    -webkit-background-size: 6.7em auto;
 
 }
 
@@ -68,7 +68,7 @@ div.login-ui {
     font-weight: 300;
     text-transform: none;
     text-align: center;
-    font-size: 2.25em;
+    font-size: 1.20em;
     color: #ececec;
     font-family: arial black, sans-serif;
 }
