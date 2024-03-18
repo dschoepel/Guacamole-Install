@@ -4,5 +4,10 @@
     "APP":{
 	
 	"NAME" : "Remote Desktops" 
-	  }
+	  },
+    "CLIENT" : {
+      "TEXT_CLIENT_STATUS_CONNECTING"   : "Connecting to the Remote Host server...",
+      "TEXT_CLIENT_STATUS_UNSTABLE"     : "The network connection to the Remote Host server appears unstable.",
+      "TEXT_CLIENT_STATUS_WAITING"      : "Connected to The Remote Client. Waiting for response..."
+    }
 }
