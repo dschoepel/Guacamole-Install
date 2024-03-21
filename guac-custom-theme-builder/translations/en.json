@@ -1,10 +1,12 @@
 {
     "NAME" : "English",
-    "VERSION" : "Unauthorized access is forbidden (v1.5.4)",
+   
 		
     "APP":{
 	
-	"NAME" : "Remote Desktops" 
+	"NAME" : "Remote Desktops",
+  "VERSION" : "Unauthorized access is forbidden (v1.5.4)" 
+  
 	  },
     "CLIENT" : {
       "TEXT_CLIENT_STATUS_CONNECTING"   : "Connecting to the Remote Host server...",
